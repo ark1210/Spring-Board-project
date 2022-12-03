@@ -177,7 +177,7 @@
       <updated>1670054242965</updated>
       <workItem from="1670054244703" duration="2081000" />
       <workItem from="1670056365545" duration="12869000" />
-      <workItem from="1670082628347" duration="8839000" />
+      <workItem from="1670082628347" duration="9231000" />
     </task>
     <task id="LOCAL-00001" summary="Spring Board project">
       <created>1670091916809</created>
@@ -186,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670091916809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Spring Board project">
+      <created>1670092013560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670092013560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
